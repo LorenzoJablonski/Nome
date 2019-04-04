@@ -4,7 +4,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro d,dcem,dcin,dvin,ddez,dcinco,ddois,dum,teste
+		inteiro d,dcem,dcin,dvin,ddez,dcinco,ddois,dum
 		leia(d)
 		dcem=d/100
 		dcin=(d%100)/50
