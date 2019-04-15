@@ -1,0 +1,19 @@
+1 -  Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é menor
+que C. 
+
+2 - Faça um algortimo que leia 2 números e verifique se o 1o lido é maior que o sucessor do 2o, escrevendo OK caso for.
+
+3 - Faça um algoritmo que leia 2 números e escreva a soma deles somente se o 1o for maior que o 2o.
+
+4 - Faça um algoritmo que leia o nome e 3 notas de um aluno e escreva o aprovado ou recuperação conforme o caso. 
+APROVADO - média superior ou igual a 7,0, caso contrário RECUPERAÇÃO
+
+5 - Faça um algoritmo que leia 2 números e escreva diferença deles se o resultado for múltiplo do 2o.
+
+6 - Faça um algoritmo que leia o nome, o peso e a idade e escreva o nome da pessoa somente se estiver dentro do peso ideal.
+PESOIDEAL = peso/(altura^2) <= 20
+
+7 - Faça um algoritmo que implemente uma calculadora com as 4 operações básicas (+, -, * , /), para isso tem que ler dois 
+operandos e um operador. 
+
+8 - Faça um algoritm que leia um ano e escreva se é bissexto ou não.
