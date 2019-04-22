@@ -6,7 +6,7 @@ programa
 		inteiro x,y
 		leia(x,y)
 		
-		se ((x-y)%2==0){
+		se ((x-y)%y==0){
 			escreva(x-y)}
 	}
 }
